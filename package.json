@@ -1,0 +1,23 @@
+{
+  "name": "unich-mining-bot",
+  "version": "1.0.0",
+  "description": "Bot otomatis untuk mining UNICH dari beberapa akun menggunakan token dan proxy.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "https-proxy-agent": "^7.0.2"
+  },
+  "keywords": [
+    "unich",
+    "mining",
+    "airdrop",
+    "bot",
+    "nodejs",
+    "automation"
+  ],
+  "author": "isansut",
+  "license": "MIT"
+}
