@@ -1,0 +1,2 @@
+# UnichAirdrop
+auto mining
